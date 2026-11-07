@@ -121,7 +121,6 @@ mahmoud = {
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MahmoudNasr206&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MahmoudNasr206&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
 
