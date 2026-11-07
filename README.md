@@ -120,8 +120,11 @@ mahmoud = {
 
 <div align="center">
 
-![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudNasr206&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudNasr206&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MahmoudNasr206&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MahmoudNasr206&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![School Management System](https://github-readme-stats.vercel.app/api/pin/?username=MahmoudNasr206&repo=SchoolProjectUsingCleanArchitecture&theme=tokyonight&hide_border=true)](https://github.com/MahmoudNasr206/SchoolProjectUsingCleanArchitecture)
+[![Ticket Booking System](https://github-readme-stats.vercel.app/api/pin/?username=MahmoudNasr206&repo=Ticket-Booking-System&theme=tokyonight&hide_border=true)](https://github.com/MahmoudNasr206/Ticket-Booking-System)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=anassaleh218&repo=AI_Mirror&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
